@@ -1,8 +1,6 @@
 DOMAIN-SUFFIX,pub1.emby.wtf
-IP-CIDR,148.135.23.241
+IP-CIDR,148.135.23.241,no-resolve
 DOMAIN-SUFFIX,embyplus.org 
-
-
 
 
 
