@@ -43,17 +43,3 @@ IP-CIDR,14.29.101.169/32,no-resolve
 IP-CIDR,182.254.116.116/32,no-resolve 
 IP-CIDR,203.205.137.89/32,no-resolve 
 IP-CIDR,218.77.192.51/32,no-resolve
-
-# 正则匹配规则
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad\.sm\.cn  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad\.wtzw\.com  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com  
-DOMAIN-REGEX,[a-zA-Z0-9.-]*-normal\.zijieapi\.com  
-DOMAIN-REGEX,.*\.*\.shouji\.sogou\.com  
-DOMAIN-REGEX,.*\.a\.market\.xiaomi\.com  
-DOMAIN-REGEX,.*\.data\.hicloud\.com  
-DOMAIN-REGEX,.*\.log\.aliyuncs\.com  
-DOMAIN-REGEX,cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com 
