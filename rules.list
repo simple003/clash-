@@ -1,34 +1,34 @@
 # pcdn2025.5.7
 # 通用 CDN 域名 
- DOMAIN-SUFFIX,bsccdn.net 
- DOMAIN-SUFFIX,gjfzpt.cn 
- DOMAIN-SUFFIX,jomodns.cn 
- DOMAIN-SUFFIX,kuiniuca.com 
- DOMAIN-SUFFIX,pkoplink.com 
- DOMAIN-SUFFIX,saxysec.com 
- DOMAIN-SUFFIX,szbdyd.com 
- DOMAIN-SUFFIX,uhabo.com 
- DOMAIN-SUFFIX,xycdn.com 
+DOMAIN-SUFFIX,bsccdn.net 
+DOMAIN-SUFFIX,gjfzpt.cn 
+DOMAIN-SUFFIX,jomodns.cn 
+DOMAIN-SUFFIX,kuiniuca.com 
+DOMAIN-SUFFIX,pkoplink.com 
+DOMAIN-SUFFIX,saxysec.com 
+DOMAIN-SUFFIX,szbdyd.com 
+DOMAIN-SUFFIX,uhabo.com 
+DOMAIN-SUFFIX,xycdn.com 
   
- # 视频平台 CDN 
- DOMAIN-SUFFIX,mcdn.bilivideo.cn 
- DOMAIN-SUFFIX,onethingpcs.com 
- DOMAIN-SUFFIX,pcdn.xmcdn.com 
- DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com 
+# 视频平台 CDN 
+DOMAIN-SUFFIX,mcdn.bilivideo.cn 
+DOMAIN-SUFFIX,onethingpcs.com 
+DOMAIN-SUFFIX,pcdn.xmcdn.com 
+DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com 
   
- # P2P 相关域名 
- DOMAIN,p2p.huya.com 
- DOMAIN,p2p.qq.com 
- DOMAIN,p2ptun.qq.com 
- DOMAIN,p2pupdate.gamedl.qq.com 
- DOMAIN,p2pupgrade.gamedl.qq.com 
- DOMAIN,pcdn.yximgs.com 
- DOMAIN,stun.hitv.com 
+# P2P 相关域名 
+DOMAIN,p2p.huya.com 
+DOMAIN,p2p.qq.com 
+DOMAIN,p2ptun.qq.com 
+DOMAIN,p2pupdate.gamedl.qq.com 
+DOMAIN,p2pupgrade.gamedl.qq.com 
+DOMAIN,pcdn.yximgs.com 
+DOMAIN,stun.hitv.com 
   
- # 正则匹配规则 
- DOMAIN-REGEX,.*pcdn.*biliapi.net 
- DOMAIN-REGEX,.*pcdn.*youku.com 
- DOMAIN-REGEX,.*p2p.*qq.com 
+# 正则匹配规则 
+DOMAIN-REGEX,.*pcdn.*biliapi.net 
+DOMAIN-REGEX,.*pcdn.*youku.com 
+DOMAIN-REGEX,.*p2p.*qq.com 
  
 
 # 秋风广告2025.4.27
