@@ -29,18 +29,3 @@ DOMAIN,stun.hitv.com
 DOMAIN-REGEX,.*pcdn.*biliapi.net 
 DOMAIN-REGEX,.*pcdn.*youku.com 
 DOMAIN-REGEX,.*p2p.*qq.com 
- 
-
-# 秋风广告2025.4.27
-# ip4
-IP-CIDR,111.20.26.186/32,no-resolve 
-IP-CIDR,112.84.130.73/32,no-resolve 
-IP-CIDR,116.142.251.100/32,no-resolve 
-IP-CIDR,116.177.251.215/32,no-resolve 
-IP-CIDR,123.56.23.22/32,no-resolve 
-IP-CIDR,14.29.101.160/32,no-resolve 
-IP-CIDR,14.29.101.168/32,no-resolve
-IP-CIDR,14.29.101.169/32,no-resolve 
-IP-CIDR,182.254.116.116/32,no-resolve 
-IP-CIDR,203.205.137.89/32,no-resolve 
-IP-CIDR,218.77.192.51/32,no-resolve
