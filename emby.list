@@ -1,9 +1,6 @@
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 
-# rn dc02洛杉矶_自建
-IP-CIDR,148.135.23.241/32,no-resolve
-
 # 守候网络公益服
 DOMAIN,lite.cn2gias.uk
 
