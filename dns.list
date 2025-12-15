@@ -2,5 +2,5 @@
 IP-CIDR,114.114.114.114/32,no-resolve
 # cloudflare dns
 DOMAIN,48q4qqsl46.cloudflare-gateway.com
-# one dns
+# 腾讯dns
 DOMAIN,sm2.doh.pub
