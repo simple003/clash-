@@ -1,2 +1,6 @@
+# 114dns
+IP-CIDR,114.114.114.114/32,no-resolve
 # cloudflare dns
 DOMAIN,48q4qqsl46.cloudflare-gateway.com
+# one dns
+DOMAIN,doh-pure.onedns.net
