@@ -7,3 +7,4 @@ DOMAIN,doh.pub
 
 # 本地ip6链路
 IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,ff02::/16,no-resolve
