@@ -1,35 +1,70 @@
+# 加密dns_anti-AD
+# 腾讯云
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,dns.qq.com
 DOMAIN,httpdns.kg.qq.com
 DOMAIN,httpdns.pro
+# 字节
 DOMAIN,httpdns.volcengineapi.com
+# 阿里云
 DOMAIN,dns.alidns.com
 DOMAIN,httpdns.aliyuncs.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns.alicdn.com
+# 华为云
 DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns1.cc.cdnhwc5.com
+# 金山云
 DOMAIN,hdns.ksyun.com
+# 京东
 DOMAIN,dns.jd.com
 DOMAIN,dns.jd.com.gslb.qianxun.com
 DOMAIN,doh.jd.com
 # 网易云信（IM/直播SDK）
 DOMAIN,httpdns.yunxindns.com
 DOMAIN,httpdns.yunxinfw.com
-
 # 美团 Meituan
 DOMAIN,httpdns.meituan.com
-
 # 百度 Baidu
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.n.shifen.com
 DOMAIN,httpsdns.baidu.com
-
 # B站 Bilibili
 DOMAIN,httpdns.bilivideo.com
 
+# pcdn_anti-AD
+DOMAIN,bsccdn.net
+DOMAIN,dyp2p-ali.douyucdn.cn
+DOMAIN,dyp2p-hw.douyucdn.cn
+DOMAIN,ietheivaicai.com
+DOMAIN,kuiniuca.com
+DOMAIN,nexusedgeio.com
+DOMAIN,onethingpcs.com
+DOMAIN,p2p-ali.douyucdn.cn
+DOMAIN,p2p.huya.com
+DOMAIN,p2p.qq.com
+DOMAIN,p2pchunk-hw.douyucdn.cn
+DOMAIN,p2pchunk-table.douyucdn.cn
+DOMAIN,p2pchunk-ws.douyucdn.cn
+DOMAIN,p2perrorlog.douyucdn.cn
+DOMAIN,p2plive-ali.douyucdn.cn
+DOMAIN,p2plive-ws.douyucdn.cn
+DOMAIN,p2plog.douyucdn.cn
+DOMAIN,p2ptun.qq.com
+DOMAIN,p2pupdate.gamedl.qq.com
+DOMAIN,p2pupgrade.gamedl.qq.com
+DOMAIN,p2pvod-ws.douyucdn.cn
+DOMAIN,pcdn.yximgs.com
+DOMAIN,pkoplink.com
+DOMAIN,saxysec.com
+DOMAIN,stun.douyucdn.cn
+DOMAIN,stun.hitv.com
+DOMAIN,stun1.douyucdn.cn
+DOMAIN,szbdyd.com
+DOMAIN,uhabo.com
+DOMAIN,xycdn.com
 
