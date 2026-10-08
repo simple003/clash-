@@ -9,5 +9,27 @@ DOMAIN,httpdns.aliyuncs.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns.alicdn.com
+DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns1.cc.cdnhwc5.com
+DOMAIN,hdns.ksyun.com
+DOMAIN,dns.jd.com
+DOMAIN,dns.jd.com.gslb.qianxun.com
+DOMAIN,doh.jd.com
+# 网易云信（IM/直播SDK）
+DOMAIN,httpdns.yunxindns.com
+DOMAIN,httpdns.yunxinfw.com
+
+# 美团 Meituan
+DOMAIN,httpdns.meituan.com
+
+# 百度 Baidu
+DOMAIN,httpdns.baidu.com
+DOMAIN,httpdns.bcelive.com
+DOMAIN,httpdns.n.shifen.com
+DOMAIN,httpsdns.baidu.com
+
+# B站 Bilibili
+DOMAIN,httpdns.bilivideo.com
+
+
