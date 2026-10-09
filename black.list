@@ -2,6 +2,7 @@
 # 腾讯云
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.qq.com
 DOMAIN,httpdns.kg.qq.com
 DOMAIN,httpdns.pro
