@@ -1,5 +1,9 @@
 # 加密dns_anti-AD
 # 关键字匹配
+
+# dns关键字匹配误杀较多
+DOMAIN-KEYWORD,dns
+
 DOMAIN-KEYWORD,doh
 DOMAIN-KEYWORD,dot
 DOMAIN-KEYWORD,httpdns
