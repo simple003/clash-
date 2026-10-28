@@ -49,6 +49,7 @@ DOMAIN,httpdns.bilivideo.com
 # 关键字匹配
 DOMAIN-KEYWORD,p2p
 DOMAIN-KEYWORD,stun
+DOMAIN-KEYWORD,pcdn
 
 DOMAIN,bsccdn.net
 DOMAIN,dyp2p-ali.douyucdn.cn
