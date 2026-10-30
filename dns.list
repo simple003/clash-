@@ -4,4 +4,11 @@ IP-CIDR,114.114.114.114/32,no-resolve
 DOMAIN,48q4qqsl46.cloudflare-gateway.com
 # 腾讯dns
 DOMAIN,doh.pub
-
+# 字节dns
+IP-CIDR,180.184.1.1/32,no-resolve
+# 中国互联网信息中心dns
+IP-CIDR,1.2.4.8/32,no-resolve
+# one dns
+IP-CIDR,42.240.136.88/32,no-resolve
+# 阿里dns
+IP-CIDR,223.5.5.5/32,no-resolve
